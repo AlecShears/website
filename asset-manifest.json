@@ -1,23 +1,5 @@
 {
   "files": {
-<<<<<<< HEAD
-    "main.css": "/website/static/css/main.b8d2c907.chunk.css",
-    "main.js": "/website/static/js/main.af1b2e05.chunk.js",
-    "main.js.map": "/website/static/js/main.af1b2e05.chunk.js.map",
-    "runtime-main.js": "/website/static/js/runtime-main.0c9ade99.js",
-    "runtime-main.js.map": "/website/static/js/runtime-main.0c9ade99.js.map",
-    "static/js/2.cb014080.chunk.js": "/website/static/js/2.cb014080.chunk.js",
-    "static/js/2.cb014080.chunk.js.map": "/website/static/js/2.cb014080.chunk.js.map",
-    "index.html": "/website/index.html",
-    "precache-manifest.540973f4de45a5c3dc36183c5162c88a.js": "/website/precache-manifest.540973f4de45a5c3dc36183c5162c88a.js",
-    "service-worker.js": "/website/service-worker.js",
-    "static/css/main.b8d2c907.chunk.css.map": "/website/static/css/main.b8d2c907.chunk.css.map",
-    "static/js/2.cb014080.chunk.js.LICENSE": "/website/static/js/2.cb014080.chunk.js.LICENSE",
-    "static/media/Camp.jpg": "/website/static/media/Camp.3ec8526a.jpg",
-    "static/media/HKN2.jpg": "/website/static/media/HKN2.6f502160.jpg",
-    "static/media/HKN_Headshot2.jpg": "/website/static/media/HKN_Headshot2.9d442ebc.jpg",
-    "static/media/Headshot.jpg": "/website/static/media/Headshot.aa275160.jpg",
-=======
     "main.css": "/website/static/css/main.27098f4e.chunk.css",
     "main.js": "/website/static/js/main.278c3bb3.chunk.js",
     "main.js.map": "/website/static/js/main.278c3bb3.chunk.js.map",
@@ -35,22 +17,12 @@
     "static/media/HealthTech_1.gif": "/website/static/media/HealthTech_1.18cdca05.gif",
     "static/media/HealthTech_2.gif": "/website/static/media/HealthTech_2.79113a48.gif",
     "static/media/HealthTech_3.gif": "/website/static/media/HealthTech_3.b64c1267.gif",
->>>>>>> cda6d1f5253d4eaab23cc5c6978d1cef6283ff6f
     "static/media/Help Desk.JPG": "/website/static/media/Help Desk.7c3ba9ae.JPG",
     "static/media/Improv.jpg": "/website/static/media/Improv.3f9b9092.jpg",
     "static/media/PostMan.png": "/website/static/media/PostMan.347ed33c.png",
     "static/media/Shark.png": "/website/static/media/Shark.fe002371.png",
     "static/media/Turtle Tank.jpg": "/website/static/media/Turtle Tank.2a68ecf0.jpg",
     "static/media/VNlogo.png": "/website/static/media/VNlogo.db54179a.png",
-<<<<<<< HEAD
-    "static/media/banyas.jpg": "/website/static/media/banyas.1fa27bc5.jpg"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.0c9ade99.js",
-    "static/js/2.cb014080.chunk.js",
-    "static/css/main.b8d2c907.chunk.css",
-    "static/js/main.af1b2e05.chunk.js"
-=======
     "static/media/banyas.jpg": "/website/static/media/banyas.1fa27bc5.jpg",
     "static/media/ghostBoy.png": "/website/static/media/ghostBoy.7e39b02d.png",
     "static/media/oldHeadshot.jpg": "/website/static/media/oldHeadshot.aa275160.jpg"
@@ -60,6 +32,5 @@
     "static/js/2.d76699f5.chunk.js",
     "static/css/main.27098f4e.chunk.css",
     "static/js/main.278c3bb3.chunk.js"
->>>>>>> cda6d1f5253d4eaab23cc5c6978d1cef6283ff6f
   ]
 }
