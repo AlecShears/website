@@ -6,7 +6,7 @@ import oldHeadshot from './img/oldHeadshot.jpg';
 import Helpdesk from './img/Help Desk.JPG';
 import Improv from './img/Improv.jpg';
 import VN from './img/VNlogo.png';
-import FICS from './img/fics.jpg';
+import FICS from './img/fics.png';
 
 
 class About extends Component{
